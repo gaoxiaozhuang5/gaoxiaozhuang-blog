@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 高晓庄 · 技术主页
-subtitle: 'Software Engineer · Architect · AI Engineer'
-description: '高晓庄的个人技术主页、在线简历、技术博客与项目作品集。专注 Java / Go / Python / AI / RAG / Agent / Cloud Native。'
-keywords: '高晓庄, 个人博客, 技术博客, AI工程师, Java架构师, RAG, Agent, Cloud Native, Kubernetes'
+title: 高晓庄 札记
+subtitle: '工程师 / 架构师 / 偶尔读点哲学和经济学'
+description: '高晓庄的札记。技术思考、工程实践、人生哲学、经济学随笔、读书感悟。'
+keywords: '高晓庄, 札记, 个人博客, 技术博客, AI工程师, Java架构师, RAG, Agent, Cloud Native, 哲学, 经济学, 儒家, 道家'
 author: 高晓庄
 author_description: 'Java / Go / Python · AI / RAG / Agent · Cloud Native / Kubernetes'
 email: gaoxiaozhuang@bingosoft.net
@@ -95,6 +95,15 @@ category_map:
   'Enterprise Architecture': Enterprise-Architecture
   'Spring Boot': Spring-Boot
   'Spring Cloud': Spring-Cloud
+  哲学: 哲学
+  人生哲学: 人生哲学
+  道家: 道家
+  儒家: 儒家
+  佛学: 佛学
+  经济学: 经济学
+  社会经济学: 社会经济学
+  随笔: 随笔
+  读书: 读书
   MyBatis: MyBatis
   JVM: JVM
   Docker: Docker

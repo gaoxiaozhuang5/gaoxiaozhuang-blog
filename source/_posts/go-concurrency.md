@@ -9,7 +9,7 @@ tags:
   - 协程
 description: 系统讲解 Go 语言的 goroutine、channel 与并发模式。
 abbrlink: 4c4d6972
-date: 2024-08-30 10:00:00
+date: 2026-05-14 10:00:00
 ---
 
 # Go 并发编程：goroutine 与 channel

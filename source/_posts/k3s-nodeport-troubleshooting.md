@@ -9,7 +9,7 @@ tags:
   - Flannel
   - NodePort
 description: 一次真实的 K3s 网络故障排查：NodePort 服务只有部分节点可访问，逐层定位到 Flannel 网络异常的全过程。
-date: 2025-01-15 10:00:00
+date: 2026-04-30 10:00:00
 ---
 
 # K3s NodePort 为什么只有一个节点能访问

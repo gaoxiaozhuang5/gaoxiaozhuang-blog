@@ -9,7 +9,7 @@ tags:
   - LangChain
   - 真实项目
 description: 网上 LangChain 教程一大堆，但没人告诉你：模型"乱调工具"在生产环境有多可怕、为什么工具描述写得烂模型就用得烂。
-date: 2025-07-22 10:00:00
+date: 2026-06-18 10:00:00
 ---
 
 # LangChain Agent 实战：从原理到落地

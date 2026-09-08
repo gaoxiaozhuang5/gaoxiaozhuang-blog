@@ -9,7 +9,7 @@ tags:
   - Agent
   - 低代码
 description: 用 Dify 编排企业级 AI 工作流的实践：节点设计、工具封装、调试技巧与生产落地要点。
-date: 2025-08-18 10:00:00
+date: 2026-06-25 10:00:00
 ---
 
 # Dify 编排企业级 Workflow

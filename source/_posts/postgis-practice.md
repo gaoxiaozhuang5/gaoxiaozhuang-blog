@@ -8,7 +8,7 @@ tags:
   - PostgreSQL
   - GIS
 description: 从空间数据类型到常见查询，梳理 PostGIS 处理地理数据的核心用法与性能要点。
-date: 2024-07-25 10:00:00
+date: 2026-04-16 10:00:00
 ---
 
 # PostgreSQL + PostGIS 地理数据实践

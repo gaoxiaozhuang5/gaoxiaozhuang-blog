@@ -9,7 +9,7 @@ tags:
   - libvirt
   - 虚拟化
 description: 记录用 Go 调用 libvirt 实现虚拟机创建、启动、停止与生命周期管理的实践，深入理解虚拟化底层机制。
-date: 2024-09-15 10:00:00
+date: 2026-05-21 10:00:00
 ---
 
 # Go + KVM/libvirt 实现虚拟机管理

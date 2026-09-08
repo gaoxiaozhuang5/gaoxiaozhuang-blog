@@ -9,7 +9,7 @@ tags:
   - 性能优化
 description: 系统讲解 MySQL 索引原理、常见失效场景与优化技巧。
 abbrlink: 78f57cef
-date: 2024-04-12 10:00:00
+date: 2026-03-19 10:00:00
 ---
 
 # MySQL 索引优化实战

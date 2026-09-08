@@ -1,68 +1,36 @@
-# blog
+# 📦 博客已迁移
 
-高晓庄的个人技术主页、在线简历、技术博客与项目作品集。
+> **本仓库已停用。博客已迁移到根域名: <https://xiaozhuanggao.github.io/>**
 
-🌐 在线访问：<https://xiaozhuanggao.github.io/blog>
+---
 
-## 技术栈
+## 迁移信息
 
-- **Hexo 8** —— 静态站点生成
-- **Butterfly** 主题 —— 简洁专业的技术博客主题
-- **GitHub Pages** —— 静态托管
-- **GitHub Actions** —— 自动构建与部署
-- **Node.js 22** —— 构建环境
+| 项目 | 旧 | 新 |
+|---|---|---|
+| 仓库 | `xiaozhuanggao/blog` | `xiaozhuanggao/xiaozhuanggao.github.io` |
+| 域名 | `xiaozhuanggao.github.io/blog/` | `xiaozhuanggao.github.io/` |
+| Pages | 已禁用 | GitHub Actions workflow 自动部署 |
+| CI | — | `.github/workflows/pages.yml` |
 
-## 内容板块
+## 访问新博客
 
-- 🏠 **首页** —— 个人简介、最新文章
-- 📄 **简历** —— 在线简历 + PDF 下载
-- 💼 **项目** —— 项目作品集
-- 📚 **技术文章** —— 按 AI / Java / Go / Cloud Native / Database / Architecture 分类
-- 🏷️ **标签** —— 主题标签云
-- 🔍 **搜索** —— 站内全文搜索
-- 🌙 **暗色模式** —— 跟随系统自动切换
+👉 **<https://xiaozhuanggao.github.io/>**
 
-## 本地开发
+## 为什么迁移
 
-```bash
-# 安装依赖
-npm install
+把博客放在 GitHub 用户主页仓库(`xiaozhuanggao.github.io`),可以省掉 `/blog/` 前缀:
 
-# 启动本地服务（http://localhost:4000）
-npm run server
+- 域名更短更好记
+- 文章 URL 更简洁:`/2026/MM/DD/hash/` 而不是 `/blog/2026/MM/DD/hash/`
+- 简历 PDF 直链:`/downloads/gaoxiaozhuang-resume.pdf`
 
-# 构建静态文件
-npm run build
+## 旧链接兼容
 
-# 清理 + 构建
-npm run clean && npm run build
-```
+GitHub Pages CDN 缓存过期后(10 分钟内),**旧 `/blog/` 链接将自动 404**。请更新书签为新域名。
 
-## 部署
+如有人通过旧链接访问,GitHub 会返回 404。建议在外部链接中把 `xiaozhuanggao.github.io/blog/xxx` 替换为 `xiaozhuanggao.github.io/xxx`。
 
-```bash
-# 提交源码
-git add .
-git commit -m "更新内容"
-git push origin main
+---
 
-# GitHub Actions 自动构建并部署到 GitHub Pages
-```
-
-## 目录说明
-
-```text
-source/_posts/    # 博客文章
-source/about/     # 关于页面
-source/resume/    # 简历页面
-source/projects/  # 项目页面
-source/downloads/ # 可下载文件（简历 PDF）
-themes/           # 主题目录
-_config.yml       # 站点配置
-_config.butterfly.yml  # 主题配置
-.github/workflows/pages.yml  # 自动部署
-```
-
-## License
-
-MIT License - 内容仅供学习参考。
+**作者**:高晓庄 <gaoxiaozhuang@bingosoft.net>

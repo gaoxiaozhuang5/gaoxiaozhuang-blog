@@ -34,7 +34,7 @@ comment: false
 
 ## 联系方式
 
-- **GitHub**：<https://github.com/gaoxiaozhuang5>
+- **GitHub**：<https://github.com/xiaozhuanggao>
 - **Email**：<mailto:gaoxiaozhuang@bingosoft.net>
 
 ## 工作方式

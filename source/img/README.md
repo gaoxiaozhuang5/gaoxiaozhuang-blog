@@ -7,4 +7,4 @@
 - error.jpg - 错误占位图
 
 当前使用 GitHub 头像作为默认：
-https://avatars.githubusercontent.com/u/gaoxiaozhuang5
+https://avatars.githubusercontent.com/u/xiaozhuanggao

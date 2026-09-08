@@ -2,7 +2,7 @@
 
 高晓庄的个人技术主页、在线简历、技术博客与项目作品集。
 
-🌐 在线访问：<https://gaoxiaozhuang5.github.io/gaoxiaozhuang-blog>
+🌐 在线访问：<https://xiaozhuanggao.github.io/gaoxiaozhuang-blog>
 
 ## 技术栈
 

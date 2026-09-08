@@ -2,14 +2,14 @@
 title: Kubernetes 入门与生产实践
 categories:
   - Cloud Native
-  - Architecture
+  - Kubernetes
 tags:
   - Kubernetes
   - Docker
   - 云原生
 description: 从零讲解 Kubernetes 核心概念，并分享生产环境的部署、调优经验。
 abbrlink: 3cfbd3fc
-date: 2026-09-07 15:00:00
+date: 2024-10-20 10:00:00
 ---
 
 # Kubernetes 入门与生产实践

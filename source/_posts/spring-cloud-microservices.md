@@ -2,14 +2,14 @@
 title: Spring Cloud 微服务架构演进
 categories:
   - Java
-  - Architecture
+  - Spring Cloud
 tags:
   - Spring Boot
   - Spring Cloud
   - 微服务
 description: 总结 Spring Cloud 微服务架构的演进路径、组件选型与踩坑经验。
 abbrlink: 16b97a34
-date: 2026-09-08 10:00:00
+date: 2023-11-15 10:00:00
 ---
 
 # Spring Cloud 微服务架构演进

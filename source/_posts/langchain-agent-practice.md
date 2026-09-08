@@ -9,7 +9,7 @@ tags:
   - LangChain
 description: 系统讲解 LangChain Agent 的核心组件、ReAct 范式、工具调用与工程化落地。
 abbrlink: 2eb68a2e
-date: 2026-09-08 11:00:00
+date: 2025-07-22 10:00:00
 ---
 
 # LangChain Agent 实战：从原理到落地

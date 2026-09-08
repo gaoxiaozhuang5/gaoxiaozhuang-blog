@@ -77,12 +77,22 @@ category_map:
   'Cloud Native': Cloud-Native
   Database: Database
   Architecture: Architecture
+  Troubleshooting: Troubleshooting
   LLM: LLM
   RAG: RAG
   Agent: Agent
   LangChain: LangChain
   Dify: Dify
   'Fine-tuning': Fine-tuning
+  CV: CV
+  GIS: GIS
+  Performance: Performance
+  Microservices: Microservices
+  Concurrency: Concurrency
+  Gin: Gin
+  Virtualization: Virtualization
+  'System Design': System-Design
+  'Enterprise Architecture': Enterprise-Architecture
   'Spring Boot': Spring-Boot
   'Spring Cloud': Spring-Cloud
   MyBatis: MyBatis

@@ -184,9 +184,12 @@ footer:
 aplayer:
   enable: false
 
-# busuanzi (disabled for performance)
+# busuanzi (访问量统计)
 busuanzi:
-  enable: false
+  enable: true
+  site_uv: true
+  site_pv: true
+  page_pv: true
 
 # Local search
 local_search:
